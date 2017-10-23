@@ -1,0 +1,7 @@
+X:\code\task 9\task 9\bin\Debug\task 9.exe.config
+X:\code\task 9\task 9\bin\Debug\task 9.exe
+X:\code\task 9\task 9\bin\Debug\task 9.pdb
+X:\code\task 9\task 9\obj\Debug\task 9.csprojResolveAssemblyReference.cache
+X:\code\task 9\task 9\obj\Debug\task 9.csproj.CoreCompileInputs.cache
+X:\code\task 9\task 9\obj\Debug\task 9.exe
+X:\code\task 9\task 9\obj\Debug\task 9.pdb

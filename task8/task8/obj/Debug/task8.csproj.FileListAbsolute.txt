@@ -1,0 +1,7 @@
+X:\code\task8\task8\bin\Debug\task8.exe.config
+X:\code\task8\task8\bin\Debug\task8.exe
+X:\code\task8\task8\bin\Debug\task8.pdb
+X:\code\task8\task8\obj\Debug\task8.csprojResolveAssemblyReference.cache
+X:\code\task8\task8\obj\Debug\task8.csproj.CoreCompileInputs.cache
+X:\code\task8\task8\obj\Debug\task8.exe
+X:\code\task8\task8\obj\Debug\task8.pdb

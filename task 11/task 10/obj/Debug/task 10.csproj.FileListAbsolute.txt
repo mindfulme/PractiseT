@@ -1,0 +1,7 @@
+X:\code\task 10\task 10\bin\Debug\task 10.exe.config
+X:\code\task 10\task 10\bin\Debug\task 10.exe
+X:\code\task 10\task 10\bin\Debug\task 10.pdb
+X:\code\task 10\task 10\obj\Debug\task 10.csprojResolveAssemblyReference.cache
+X:\code\task 10\task 10\obj\Debug\task 10.csproj.CoreCompileInputs.cache
+X:\code\task 10\task 10\obj\Debug\task 10.exe
+X:\code\task 10\task 10\obj\Debug\task 10.pdb

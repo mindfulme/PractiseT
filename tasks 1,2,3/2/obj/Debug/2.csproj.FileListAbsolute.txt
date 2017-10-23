@@ -1,0 +1,10 @@
+X:\code\2\2\bin\Debug\2.exe.config
+X:\code\2\2\bin\Debug\2.exe
+X:\code\2\2\bin\Debug\2.pdb
+X:\code\2\2\obj\Debug\2.csprojResolveAssemblyReference.cache
+X:\code\2\2\obj\Debug\_2.Form1.resources
+X:\code\2\2\obj\Debug\_2.Properties.Resources.resources
+X:\code\2\2\obj\Debug\2.csproj.GenerateResource.Cache
+X:\code\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+X:\code\2\2\obj\Debug\2.exe
+X:\code\2\2\obj\Debug\2.pdb
