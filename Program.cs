@@ -1,4 +1,4 @@
-// rought solution ,
+// right solution , 
 //Rostislav Gogolauri
 
 using System;
