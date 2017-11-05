@@ -1,5 +1,5 @@
-// right solution , 
-//Rostislav Gogolauri
+
+//written by Rostislav Gogolauri
 
 using System;
 using System.Collections.Generic;
