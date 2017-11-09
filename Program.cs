@@ -1,5 +1,5 @@
 
-//written by Rostislav Gogolauri
+//was written by Rostislav Gogolauri
 
 using System;
 using System.Collections.Generic;
