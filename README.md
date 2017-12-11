@@ -1,1 +1,1 @@
-# PractiseT
+# Practise Discrete Math
