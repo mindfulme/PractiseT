@@ -1,2 +1,2 @@
 # Practise Discrete Math
-"4 discrete" is not working
+"4 discrete" does not work
