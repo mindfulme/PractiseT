@@ -1,1 +1,1 @@
-### GO to tasks repo
+### A sScratch repo, visit the "tasks" repository!
